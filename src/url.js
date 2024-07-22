@@ -1,3 +1,3 @@
-export const url='http://localhost:5000'
+export const url='https://mernblog-backend-t04b.onrender.com'
 
-export const IF="http://localhost:5000/images/"
+export const IF="https://mernblog-backend-t04b.onrender.com/images"
